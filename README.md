@@ -7,3 +7,9 @@ wEscribir sobre mí...
 ## Contact me
 
 Hacer el cierre de la presentación invitando a contactar...
+
+## Technologies
+
+- HTML
+- CSS
+- JS
