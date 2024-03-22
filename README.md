@@ -12,6 +12,11 @@ Hacer el cierre de la presentación invitando a contactar...
 
 - Dancing
 
+## Languages
+
+- English
+- Spanish
+
 ## Skills
 
 - Coaching
@@ -21,3 +26,4 @@ Hacer el cierre de la presentación invitando a contactar...
 - HTML
 - CSS
 - JS
+
