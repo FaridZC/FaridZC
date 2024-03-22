@@ -8,6 +8,10 @@ Escribir sobre mí...
 
 Hacer el cierre de la presentación invitando a contactar...
 
+## Hobbies
+
+- Dancing
+
 ## Skills
 
 - Coaching
